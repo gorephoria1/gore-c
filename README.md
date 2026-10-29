@@ -2,4 +2,5 @@
 
 
 gore c is my own version of the c coding language coming soon in early 2027
-stay tuned
+so there is no files or tutorials for gore-c yet!
+stay tuned on gorephorias offcial yt ig tt account
