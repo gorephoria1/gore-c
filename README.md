@@ -1,4 +1,5 @@
-<img width="270" height="310" alt="gore-c-icon" src="https://github.com/user-attachments/assets/be260e6f-9c66-485c-8786-c5e093f025fc" />
+<img width="380" height="420" alt="gore-c-icon" src="https://github.com/user-attachments/assets/dd725023-d07c-4665-a78a-c596c2fae56e" />
+
 
 
 gore c is my own version of the c coding language full version coming soon in early 2027
