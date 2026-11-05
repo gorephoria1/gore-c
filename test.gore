@@ -1,0 +1,9 @@
+// This line is a comment and will be quietly ignored by Gorephoria C!
+let x = 42;
+mut y = x + 10;
+
+print y == 52;      // True, should print 1
+print y != 52;      // False, should print 0
+print y > 100;      // False, should print 0
+print x < y;        // True, should print 1
+
